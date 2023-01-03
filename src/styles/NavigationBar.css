@@ -1,0 +1,34 @@
+.nav {
+    background-color: #070720;
+}
+
+.nav-logo{
+    font-size: 32px;
+    width: 180px;
+}
+.nav-logo span{
+    font-size: 32px;
+}
+
+.nav-container {
+    width: 170px;
+    justify-content: right;
+}
+
+.nav-container svg path {
+    color: #b7b7b7
+}
+
+.nav-links-{
+    background-color: #e53637;/*will change background-color of element */
+    color: white; /*will change color of text within the element */
+}
+
+.nav-links:hover {
+    background-color: #e53637; /*will change background-color of element on hover */
+    color: white; /*will change color of text within the element on hover */
+}
+
+.nav-links-font {
+    font-size: 18px;
+}
